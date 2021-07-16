@@ -1,2 +1,3 @@
-# jk
-jacques.dog website
+# jacques.dog
+
+This is my dog's website.
